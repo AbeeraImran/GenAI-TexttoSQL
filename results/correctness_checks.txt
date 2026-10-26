@@ -1,0 +1,11 @@
+1. causal mask
+   difference at earlier positions: 0.0 (must be 0.0)
+   difference at the last position: 4.169147968292236 (must be clearly above 0)
+2. padding mask
+   max output difference: 0.0 (must be 0.0 or about 1e-6)
+3. attention rows
+   all rows sum to 1: True
+   largest weight on the 6 <pad> columns: 0.0 (must be about 0)
+4. weight sharing
+   encoder embedding is output weight: True
+   decoder embedding is output weight: True
