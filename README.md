@@ -20,7 +20,7 @@ Example (table columns: Player, No., Nationality, Position, Years in Toronto, Sc
 
 **Team:** Abeera Imran
 
-**Links:** Medium blog: [PLACEHOLDER] | LinkedIn post: [PLACEHOLDER]
+**Links:** Medium blog: [[PLACEHOLDER]](https://medium.com/@abeera.syal989/teaching-a-transformer-to-write-sql-a-text-to-sql-model-built-from-scratch-4e73c0707244?postPublishedType=repub) | LinkedIn post: [[PLACEHOLDER]](https://www.linkedin.com/feed/update/urn:li:activity:7512805700901937152/)
 
 ## Repository layout
 
