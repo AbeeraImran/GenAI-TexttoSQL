@@ -18,11 +18,9 @@ Example (table columns: Player, No., Nationality, Position, Years in Toronto, Sc
 | Question | What school did player number 21 play for? |
 | Generated SQL | `SELECT School/Club Team FROM table WHERE No. = '21'` |
 
-**Team:** [MEMBER 1 NAME, GitHub: PLACEHOLDER] and [MEMBER 2 NAME, GitHub: PLACEHOLDER]
+**Team:** Abeera Imran
 
 **Links:** Medium blog: [PLACEHOLDER] | LinkedIn post: [PLACEHOLDER]
-
-**AI assistance:** [PLACEHOLDER: state in your own words how an LLM was used, for example as a tutor and for skeleton code, with your professor's permission. Every line was typed, run and understood by the team.]
 
 ## Repository layout
 
